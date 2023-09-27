@@ -1,0 +1,17 @@
+flask
+base64
+pickle
+io
+base64
+numpy
+pandas
+os
+opencv-contrib-python
+glob
+math
+matplotlib
+torch
+segmentation-models-pytorch
+albumentations
+PIL
+requests
